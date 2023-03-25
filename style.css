@@ -1,0 +1,55 @@
+/* set default font and background color */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f1f1;
+  }
+  
+  /* style for the calculator container */
+  #calculator {
+    width: 300px;
+    margin: 50px auto;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  }
+  
+  /* style for the calculator display */
+  #display {
+    height: 40px;
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 20px;
+    text-align: right;
+    background-color: #eee;
+    border: 1px solid #ccc;
+  }
+  
+  /* style for the calculator buttons */
+  button {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    font-size: 20px;
+    background-color: #ddd;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* style for the clear button */
+  #clear {
+    background-color: #f44336;
+    color: #fff;
+  }
+  
+  /* style for the equals button */
+  #equals {
+    background-color: #4caf50;
+    color: #fff;
+  }
+  
+  /* style for the operator buttons */
+  .operator {
+    background-color: #2196f3;
+    color: #fff;
+  }

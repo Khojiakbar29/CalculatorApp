@@ -69,3 +69,5 @@ function calculate() {
     currentOperator = '';
 }
 
+// thanks
+
